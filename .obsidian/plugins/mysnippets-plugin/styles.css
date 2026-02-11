@@ -89,7 +89,7 @@ STATUS BAR MENU
 }
 
 .MySnippetsButton {
-  width: 32%;
+  width: auto;
   padding: 5px 14px;
   margin-right: 0;
   margin-top: 4px;
@@ -113,6 +113,10 @@ STATUS BAR MENU
 
 .MySnippets-statusbar-menu .menu-item.buttonitem {
   justify-self: space-between;
+}
+
+.menu.MySnippets-statusbar-menu {
+  overflow: auto;
 }
 
 /*----------------------------------------------------------------

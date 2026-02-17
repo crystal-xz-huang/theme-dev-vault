@@ -1,5 +1,6 @@
-User documentaion: https://help.obsidian.md/Editing+and+formatting/Callouts
+User documentation: https://help.obsidian.md/Editing+and+formatting/Callouts
 ## Built-in callout types
+
 If an unknown type is specified, Obsidian will default to the `note` style.
 
 > [!abstract]
@@ -56,6 +57,7 @@ If an unknown type is specified, Obsidian will default to the `note` style.
 > [!tip] Title-only callout
 
 ## Foldable callouts
+
 > [!faq]- Foldable callout, closed by default 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus non elit diam. In est dolor, maximus in magna a, sodales interdum purus. Aliquam consectetur ex at ex consequat aliquam.
 
@@ -70,7 +72,9 @@ If an unknown type is specified, Obsidian will default to the `note` style.
 > > 
 
 ## Custom callouts
+
 Themes and CSS snippets may define custom callouts e.g.
+
 ```css
 .callout[data-callout="my-custom-callout-type"] { 
   --callout-color: 0, 0, 0; 

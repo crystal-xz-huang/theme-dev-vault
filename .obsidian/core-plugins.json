@@ -3,7 +3,7 @@
   "global-search": true,
   "switcher": true,
   "graph": true,
-  "backlink": true,
+  "backlink": false,
   "outgoing-link": false,
   "tag-pane": true,
   "page-preview": false,
@@ -11,7 +11,7 @@
   "templates": false,
   "note-composer": false,
   "command-palette": true,
-  "slash-command": false,
+  "slash-command": true,
   "editor-status": true,
   "markdown-importer": false,
   "zk-prefixer": false,
@@ -21,7 +21,7 @@
   "slides": false,
   "audio-recorder": false,
   "workspaces": false,
-  "file-recovery": false,
+  "file-recovery": true,
   "publish": false,
   "sync": false,
   "canvas": true,
@@ -29,5 +29,5 @@
   "properties": true,
   "bookmarks": true,
   "bases": true,
-  "webviewer": false
+  "webviewer": true
 }

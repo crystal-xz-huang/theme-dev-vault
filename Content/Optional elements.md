@@ -27,7 +27,7 @@ Integer ac accumsan lacus, sed varius erat. Proin mollis felis quis elementum co
 > Nunc non lacus enim. Donec id doliam lurta orci, eget commodo est euismod a. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;
 > <div></div>
 > 
-> <cite>— by [[Embeds|Internal Link]]</cite>
+> <cite>— by [[Content/Embeds|Internal Link]]</cite>
 
 And another (just a name)
 

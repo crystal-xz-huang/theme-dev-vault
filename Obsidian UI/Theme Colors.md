@@ -1,4 +1,3 @@
-## Dark Mode
 
 <table class="theme-dark">
   <thead>

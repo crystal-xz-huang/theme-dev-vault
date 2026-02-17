@@ -5,7 +5,7 @@
 
 # Ignore all themes in .obsidian/themes except for ".obsidian/themes/Base Theme"
 .obsidian/themes/*
-!.obsidian/themes/Base Theme
+!.obsidian/themes/Base Theme/
 
 # Exclude macOS Finder (System Explorer) View States
 .DS_Store

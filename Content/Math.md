@@ -1,5 +1,4 @@
-Obisidian uses [MathJax](http://docs.mathjax.org/en/latest/basic/mathjax.html) to render mathematics, using [LaTeX](https://www.latex-project.org) syntax.
-
+Obsidian uses [MathJax](http://docs.mathjax.org/en/latest/basic/mathjax.html) to render mathematics, using [LaTeX](https://www.latex-project.org) syntax. You can check which packages are supported in Mathjax [here](http://docs.mathjax.org/en/latest/input/tex/extensions/index.html).
 ## Math in blocks
 
 $$

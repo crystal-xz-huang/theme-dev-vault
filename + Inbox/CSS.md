@@ -63,8 +63,6 @@ padding: 1em 2em 2em;
 padding: 5% 10%;
 ```
 
-
-
 ## CSS Logical Properties
 
 CSS logical properties define property values not be explicit directions like `top` or `left`, but by their _logical_ direction: `inline` or `block`, and `start` or `end`.

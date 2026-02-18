@@ -1,3 +1,9 @@
+Embed another file (read more about [embed files](https://help.obsidian.md/embeds)). Here's an embedded section:
+
+```md
+![[Plugins makes Obsidian special for you]]
+```
+
 ## Embedded image
 
 ![[obsidian.jpeg]]

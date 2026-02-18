@@ -9,7 +9,8 @@
 \- Doug Engelbart, 1961
 
 ---
-source: https://openai.com/index/introducing-chatgpt-edu/
+
+Source: https://openai.com/index/introducing-chatgpt-edu/
 
 > “Integrating OpenAI's technology into our educational and operational frameworks accelerates transformation at ASU. We're collaborating across our community to harness these tools, extending our learnings as a scalable model for other institutions.”
 

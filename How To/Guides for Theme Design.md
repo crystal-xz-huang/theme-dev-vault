@@ -12,11 +12,6 @@ Check out the [Guides for Theme Designers at the Obsidian Hub](https://publish.o
 - [Using Visual Studio Code for Theme Development](https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/Guides/Using+Visual+Studio+Code+for+Theme+Development)
 - [Adding plugin compatibility for themes to the Obsidian Hub](https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/Guides/Adding+plugin+compatibility+for+themes+to+the+Obsidian+Hub)
 
-## Theme Ready?
-
-- [How to add your theme to the community theme store](https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/Guides/How+to+add+your+theme+to+the+community+theme+store)
-
-
 ## Tools & Resources
 
 - [Obsidian Theme Template](https://github.com/obsidian-community/obsidian-theme-template) A GitHub repository template with everything you need to get started! Click `Use this template` to get a ready-to-go theme repository.
@@ -30,3 +25,8 @@ Check out the [Guides for Theme Designers at the Obsidian Hub](https://publish.o
 - [Theme Picker](https://github.com/kenset/obsidian-theme-picker)
 - [Print Preview](https://github.com/nothingislost/obsidian-print-preview) (unlisted)
 - [Theme Hot-Reload](https://github.com/mProjectsCode/obsidian-theme-hot-reload-plugin) (unlisted)
+
+
+## Theme Ready?
+
+- [How to add your theme to the community theme store](https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/Guides/How+to+add+your+theme+to+the+community+theme+store)

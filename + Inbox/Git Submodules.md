@@ -294,7 +294,6 @@ Unable to checkout '261dfac35cb99d380eb966e102c1197139f7fa24' in submodule path 
 git rm --cached <repo-to-remove>
 ```
 
-
 ### Listing submodules
 
 ```shell

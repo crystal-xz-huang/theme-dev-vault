@@ -1,4 +1,12 @@
-#### External links
+### Internal links
+
+```md
+Link to a page: [[Embeds]].
+```
+
+Link to a page: [[Content/Embeds|Embeds]].
+
+### External links
 
 Markdown style links can be used to refer to either external objects, such as web pages, or an internal page or image.
 
@@ -10,7 +18,7 @@ http://obsidian.md - automatic!
 http://obsidian.md - automatic!
 [Obsidian](http://obsidian.md)
 
-#### Obsidian URI links
+### Obsidian URI links
 
 Obsidian URI links can be used to open notes in Obsidian either from another Obsidian vault or another program.
 
@@ -30,15 +38,15 @@ You can link to a note by its vault name and file name instead of path as well:
 
 [Link to note](obsidian://open?vault=MainVault&file=MyNote.md)
 
-#### Escaping
+### Escaping
 
-If there are spaces in the url, they can be escaped by either using `%20` as a space, such as:
+If there are spaces in the URL, they can be escaped by either using `%20` as a space, such as:
 
 ```md
 [Format your notes](Format%20your%20notes)
 ```
 
-[Format your notes](Format your notes.md)
+[Format your notes](Format%20your%20notes)
 
 Or you can enclose the target in `<>`, such as:
 

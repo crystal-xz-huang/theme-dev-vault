@@ -14,7 +14,7 @@ For information about how to write shell scripts, see the [Shell Scripting Prim
 
 - Starting with the _Catalina_ version of macOS, the default shell has been switched to **Zsh**. See [Apple Support article: Use zsh as the default shell on your Mac](https://support.apple.com/102360) for more information. 
 
-- You can (and should) edit `~/.zshrc` to customise your shell. It is strongly recommended to keep all shell customization and configuration (including exported environment variables such as `PATH`) in `~/.zshrc` or in files sourced from `~/.zshrc`. 
+- You can (and should) edit `~/.zshrc` to customise your shell. It is strongly recommended to keep all shell customisation and configuration (including exported environment variables such as `PATH`) in `~/.zshrc` or in files sourced from `~/.zshrc`. 
 
 - Zsh supports several additional startup files with complex rules governing when each file is sourced. The additional startup files are `~/.zprofile`, `~/.zlogin`and `~/.zlogout`. **Do not create these files** unless you are absolutely certain you need them.
 

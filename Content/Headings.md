@@ -1,3 +1,20 @@
+```md
+# This is a heading 1
+## This is a heading 2
+### This is a heading 3 
+#### This is a heading 4
+##### This is a heading 5
+###### This is a heading 6
+```
+
+# This is a heading 1
+## This is a heading 2
+### This is a heading 3 
+#### This is a heading 4
+##### This is a heading 5
+###### This is a heading 6
+
+---
 # h1 Heading
 ## h2 Heading
 ### h3 Heading
@@ -5,7 +22,7 @@
 ##### h5 Heading
 ###### h6 Heading
 
-
+---
 # h1 Heading 2
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse efficitur malesuada dolor et feugiat. Maecenas at risus ut ipsum rutrum maximus a id arcu. Curabitur tortor nulla, ultricies mattis neque ut, elementum interdum nisl. Nam dapibus tempus ornare. Fusce fringilla lectus sit amet orci rhoncus mollis. ^038507
@@ -35,7 +52,7 @@ Nullam tristique molestie sem faucibus venenatis. Nam nisi odio, finibus a urna 
 
 Sed et scelerisque orci. Praesent non neque eget nisl rutrum aliquet. Duis vitae augue sit amet ante tempus posuere. Nulla interdum lacus tortor, sit amet finibus dui auctor eget.
 
-
+---
 # h1 Heading
 ## h2 Heading
 

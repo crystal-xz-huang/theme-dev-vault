@@ -48,7 +48,6 @@ Retrieved 2026-02-13, License - CC BY-SA 4.0
 
 `font-display: swap`; This CSS property tells the browser to immediately display text with a fallback font while the custom font loads. This prevents the "flash of invisible text" (FOIT) and improves perceived performance.
 
-Ï
 ## Encoding data into base64 format
 
 Base64 encoding of a file or string on Linux and macOS systems can be achieved using the command-line `base64` tool:

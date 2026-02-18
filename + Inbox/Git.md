@@ -1,4 +1,3 @@
-
 ## Git Add
 
 The `git add` command adds new or changed files in your working directory to the Git staging area.
@@ -6,7 +5,7 @@ The `git add` command adds new or changed files in your working directory to t
 - `git add <file>`  to add a specific file
 - `git add .`   to add all the changed files
 
-### Unstaging Files – Undo Git Add
+#### Unstaging Files – Undo Git Add
 
 ```shell
 git reset <file/path> 
